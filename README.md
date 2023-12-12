@@ -1,1 +1,2 @@
-# canariApp
+# craveApp
+crave app
